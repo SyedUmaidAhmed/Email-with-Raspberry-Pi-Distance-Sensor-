@@ -6,7 +6,7 @@ pip3 install smtplib
 
 Step 2 - Go to your google account & in the security tab, In: "Allow the less-secure app option", Turn the button to "On"
 
-Step 3 - GO to the sense_email.py file and change the sender email_address and password to your account.
+Step 3 - Go to the sense_email.py file and change the sender email_address and password to your account.
 
 Step 4 - In the reciever email part, write the email you want to send : (Reciever's email)
 
