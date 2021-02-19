@@ -2,7 +2,7 @@
 
 Step 1 - Install these libraries first  in terminal
 
-pip3 install smtplib
+sudo apt-get install ssmtp
 
 Step 2 - Go to your google account & in the security tab, In: "Allow the less-secure app option", Turn the button to "On"
 
